@@ -25,3 +25,5 @@ _____'s GoFundMe campaign for _____ seems to really be gaining some traction.
 I can't believe my pull request to include _____ in WooCommerce was denied.
 
 Top 10 _____ plugins for WordPress.
+
+How do you feel about the WordPress.com _____-gate?
